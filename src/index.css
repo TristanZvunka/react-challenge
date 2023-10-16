@@ -9,3 +9,25 @@
   -moz-osx-font-smoothing: grayscale;
   -webkit-text-size-adjust: 100%;
 }
+.app{
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+}
+.navbar{
+  display: flex;
+  justify-content: space-between;
+}
+ul {
+  width: 30%;
+  display: flex;
+  justify-content: space-around;
+}
+li{
+  text-decoration: none;
+}
+.footer{
+  display: flex;
+  justify-content: space-between;
+}

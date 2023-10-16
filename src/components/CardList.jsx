@@ -2,7 +2,9 @@ import Card from "./Card"
 
 
 function Cardlist (){
-    return
+    return(
+        
+    )
 }
 
 

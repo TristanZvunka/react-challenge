@@ -6,11 +6,10 @@ import Cardlist from "./components/CardList"
 function App(){
 
   return (
-    <div>
+    <div className="app">
       <NavBar />
       <Cardlist />
       <Footer />
-
     </div>
   )
 }
