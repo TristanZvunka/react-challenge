@@ -1,53 +1,52 @@
-{
-    "articles": [
+[
         {
            "id": "1" ,
            "title": "Merlot",
            "description": "Un vin puissant, parfait pour les viandes",
-           "price": "15€",
-           "image": "../assets/merlot.jpg",
+           "price": "15",
+           "image": "images/merlot.jpg",
            "category": "rouge" 
         },
         {
             "id": "2" ,
             "title": "Gamay",
             "description": "La boisson de copains par excellence, idéal pour l'apéritif",
-            "price": "12€",
-            "image": "../assets/gamay.jpg",
+            "price": "12",
+            "image": "images/gamay.jpg",
             "category": "rouge" 
          },
          {
             "id": "3" ,
             "title": "Pet' Nat'",
             "description": "L'arme secrète des bobos qui veulent impressionner leurs amis: garanti sans sulfite, ni gueule de bois",
-            "price": "18€",
-            "image": "../assets/Pet-nat.jpg",
+            "price": "18",
+            "image": "images/Pet-nat.jpg",
             "category": "nature" 
          },
          {
             "id": "4" ,
             "title": "Côtes de Provence",
             "description": "Le rosé clair, efficace. A servir avec une montagne de glaçons pour atténuer l'acidité",
-            "price": "10€",
-            "image": "../assets/cotes-provence.jpg",
+            "price": "10",
+            "image": "images/cotes-provence.jpg",
             "category": "rosé" 
          },
          {
             "id": "5" ,
             "title": "Sauvignon",
             "description": "Les bords de Loire dans une bouteille. Parfait pour accompagner un poisson ou des fruits de mer",
-            "price": "12€",
-            "image": "../assets/sauvignon.jpg",
+            "price": "12",
+            "image": "images/sauvignon.jpg",
             "category": "blanc" 
          },
          {
             "id": "6" ,
             "title": "Cabernet",
             "description": "Un vin équilibré et savoureux, qui accompagnera aussi bien vos plats que des fromages",
-            "price": "15€",
-            "image": "../assets/cabernet.jpg",
+            "price": "15",
+            "image": "images/cabernet.jpg",
             "category": "rouge" 
          }
 
-    ]
-}
+    
+]
