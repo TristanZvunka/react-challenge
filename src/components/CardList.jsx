@@ -4,7 +4,7 @@ import Data from "../data/data.json"
 function Cardlist (){
 
         return (
-           <div>
+           <div className="cards">
             { Data.map((element) => (
                 
           <Card

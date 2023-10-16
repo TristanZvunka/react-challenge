@@ -21,7 +21,7 @@
             "description": "L'arme secrète des bobos qui veulent impressionner leurs amis: garanti sans sulfite, ni gueule de bois",
             "price": "18",
             "image": "images/Pet-nat.jpg",
-            "category": "nature" 
+            "category": "rose" 
          },
          {
             "id": "4" ,
@@ -29,7 +29,7 @@
             "description": "Le rosé clair, efficace. A servir avec une montagne de glaçons pour atténuer l'acidité",
             "price": "10",
             "image": "images/cotes-provence.jpg",
-            "category": "rosé" 
+            "category": "rose" 
          },
          {
             "id": "5" ,
