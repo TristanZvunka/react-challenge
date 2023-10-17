@@ -92,10 +92,8 @@ select{
 }
 
 .container > p{
-  color: white;
   margin: .5em;
 }
-
-.container > h2{
-  color: white;
+.price{
+  display: flex;
 }

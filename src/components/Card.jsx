@@ -9,6 +9,7 @@ function Card({title, description, image, category, price})
             <p className="description"> {description}</p>
             <p className="cat"> Catégorie : {category} </p>
             <p className="price"> {price}€ </p>
+            <button> Ajouter au panier </button>
         </div>
     )
 }

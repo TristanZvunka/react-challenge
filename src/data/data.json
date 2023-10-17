@@ -46,7 +46,16 @@
             "price": "15",
             "image": "images/cabernet.jpg",
             "category": "rouge" 
+         },
+         {
+            "id": "7" ,
+            "title": "Rosé pétillant",
+            "description": "Pour les indécis, entre le pétillant et le rosé",
+            "price": "13",
+            "image": "images/rose-pet.jpg",
+            "category": "rose" 
          }
+      
 
     
 ]
