@@ -11,6 +11,9 @@
   color: white;
 
 }
+body{
+  margin:0;
+}
 .navbar{
   background: #485665;
 }

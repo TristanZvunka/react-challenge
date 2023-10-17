@@ -54,6 +54,14 @@
             "price": "13",
             "image": "images/rose-pet.jpg",
             "category": "rose" 
+         },
+         {
+            "id": "8" ,
+            "title": "Bordeaux",
+            "description": "L'inimitable, avons-nous besoin de le présenter?",
+            "price": "19",
+            "image": "images/bordeaux.jpg",
+            "category": "rouge" 
          }
       
 
