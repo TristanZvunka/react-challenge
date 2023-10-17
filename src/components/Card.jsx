@@ -5,10 +5,10 @@ function Card({title, description, image, category, price})
     return(
         <div className="container">
             <img className="wine-img" src={image}  width={300}/>
-            <h2> {title} </h2>
-            <p> {description}</p>
-            <p> Catégorie : {category} </p>
-            <p> {price}€ </p>
+            <h2 className="title"> {title} </h2>
+            <p className="description"> {description}</p>
+            <p className="cat"> Catégorie : {category} </p>
+            <p className="price"> {price}€ </p>
         </div>
     )
 }

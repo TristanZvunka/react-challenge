@@ -2,31 +2,34 @@ function NavBar() {
   return (
     <>
       <div className="navbar">
-        <img src="images/logo.png" alt="logo" width={200} />
+        <img className="logo" src="images/logo.png" alt="logo" width={200} />
         <ul>
-          <li>Boutique</li>
-          <li>Accueil</li>
-          <li>A propos</li>
+          <p>Boutique</p>
+          <p>Accueil</p>
+          <p>A propos</p>
         </ul>
       </div>
     </>
   );
 }
 
-function Filter() {
+function Filter({setCat}) {
 function catChange(event){
-    console.log(event.target.value)
+    setCat(event.target.value)
 
 }
 
 
   return (
-    <select className="filter-area" onChange={catChange} >
+    <div className="filter-area">
+    <select  onChange={catChange} >
       <option value="tous">Tous</option>
       <option value="rouge">Rouge</option>
       <option value="blanc">Blanc</option>
       <option value="rose">Rosé</option>
     </select>
+    </div>
+
   );
 }
 
